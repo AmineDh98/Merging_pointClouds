@@ -398,6 +398,8 @@ class pointCloudMerging:
 
         return normalized_coordinates
     
+    
+    
                 
 
 
